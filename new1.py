@@ -1,2 +1,2 @@
 print("!!!!! !!!!!!   Hello JENKINS")
-print("!!!!! !!!!!!   Hello AUTO BUILD")
+print("!!!!! !!!!!!   Hello AUTO BUILD2")
