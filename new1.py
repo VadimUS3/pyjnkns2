@@ -5,5 +5,6 @@ print("!!!!! !!!!!!   Hello AUTO BUILD3")
 print("!!!!! !!!!!!   Hello AUTO BUILD4")
 print("!!!!! !!!!!!   Hello AUTO BUILD5")
 print("!!!!! !!!!!!   Hello AUTO BUILD6")
+print("!!!!! !!!!!!   Hello AUTO BUILD7")
 
 print("!!!!! !!!!!!   Hello JENKINS BUILD3")
